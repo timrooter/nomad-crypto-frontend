@@ -18,7 +18,7 @@ export default function Home() {
               'text-center text-3xl font-medium tracking-wide md:text-4xl lg:text-left lg:text-5xl'
             }
           >
-            Welcome to <span className={'font-bold'}>Blur</span>
+            Welcome to <span className={'font-bold'}>Nomad Crypto</span>
           </h1>
           <p className={'text-lg leading-6 text-foreground/70'}>
             We help people legally pay for goods and services with cryptocurrency using the Nomad Crypto
