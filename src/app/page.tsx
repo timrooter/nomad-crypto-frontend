@@ -21,7 +21,7 @@ export default function Home() {
             Welcome to <span className={'font-bold'}>Blur</span>
           </h1>
           <p className={'text-lg leading-6 text-foreground/70'}>
-            We help people legally pay for goods and services with cryptocurrency using the Blur
+            We help people legally pay for goods and services with cryptocurrency using the Nomad Crypto
             virtual card. With our card, you can quickly and safely make everyday purchases and
             international transfers without losing money on exchange rate differences. We combine
             the ease of transfers via banking apps with the security and anonymity of crypto
@@ -34,7 +34,7 @@ export default function Home() {
           <Image
             src={phoneVertical.src}
             priority
-            alt={'blur'}
+            alt={'nomad'}
             width={1500}
             height={1125}
             className={'object-contain max-md:hidden'}
@@ -42,7 +42,7 @@ export default function Home() {
           <Image
             src={phoneHorizontal.src}
             priority
-            alt={'blur'}
+            alt={'nomad'}
             width={1500}
             height={1125}
             className={'object-contain md:hidden'}
