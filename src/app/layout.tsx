@@ -47,7 +47,7 @@ export default function RootLayout({
             <Header />
             <div className={'overflow-x-hidden px-6 py-4 md:px-16 md:py-12'}>{children}</div>
             <small className={'mb-2 text-center text-muted-foreground'}>
-              ©️ 2024 Blur. All Rights Reserved.
+              ©️ 2025 Nomad Crypto. All Rights Reserved.
             </small>
           </StoreProvider>
         </CookiesProvider>
